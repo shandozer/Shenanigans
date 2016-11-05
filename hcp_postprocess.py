@@ -14,7 +14,7 @@ import argparse
 import subprocess
 import shutil
 from glob import glob
-import config_fnl_preproc
+import config_hcp_postprocess
 from oct2py import Oct2Py
 import time
 from datetime import datetime
